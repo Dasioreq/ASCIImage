@@ -1,8 +1,8 @@
-#include "./src/convert.hpp"
+#include "./convert.hpp"
 #include <string>
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "./lib/stb_image.h"
+#include "./../lib/stb_image.h"
 
 int main()
 {

@@ -1,7 +1,7 @@
 #include "./convert.hpp"
 
 
-byte getClosestChar(const float brightness, const bool useWeights)
+char getClosestChar(const float brightness, const bool useWeights)
 {
     byte index;
 
